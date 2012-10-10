@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'print_client'
+
+print_client = PrintClient::PrintLabels.new
+print_client.start

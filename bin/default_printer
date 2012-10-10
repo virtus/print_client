@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'print_client'
+
+default_printer = PrintClient::DefaultPrinter.new
+default_printer.default

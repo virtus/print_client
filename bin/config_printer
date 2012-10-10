@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'print_client'
+
+config_printer = PrintClient::ConfigPrinter.new
+config_printer.config

@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'print_client'
+
+test_template = PrintClient::TestTemplate.new
+test_template.start
