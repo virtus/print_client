@@ -1,0 +1,8 @@
+virtusprinter:
+  domain: 'example.com'
+  subdomain: 'subdomain'
+  email: 'mail@example.com'
+  password: '1111'
+  computer: 'computer'
+  template: 'template'
+  port: 'COM1'
